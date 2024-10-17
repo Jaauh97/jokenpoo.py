@@ -11,7 +11,7 @@ print('JokenPoo')
 print('-=' * 11)
 
 #Declarações de variávies
-lista =  ('Pedra' 'Papel' 'Tesoura')
+lista =  ('Pedra' ,'Papel' ,'Tesoura')
 computador = randint (0 , 2)
 
 #Menu de opções
